@@ -13,5 +13,6 @@
 ## Chapter 3
 * Chapter 3-1:Zero Value
 * Chapter 3-2:String
+* Chapter 3-3:Floting point
 
 ## Chapter 4
