@@ -14,6 +14,7 @@
 * Chapter 3-1:Zero Value
 * Chapter 3-2:String
 * Chapter 3-3:Floting point
+* Chapter 3-execise : Boolean (excercise page 34)
 
 ## Chapter 4
 * Chapter 4-1:Variable
