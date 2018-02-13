@@ -19,3 +19,7 @@
 ## Chapter 4
 * Chapter 4-1:Variable
 * Chapter 4-2:Change F Degree to C Degree  
+
+## Chapter 5
+* Chapter 5-1:For Loop
+* Chapter 5-2:FizzBuzz
