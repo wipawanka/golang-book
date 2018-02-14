@@ -29,4 +29,5 @@
 
 ## Chapter 6
 * Chapter 6-1:Function
-* Chapter 6-1:Function return int
+* Chapter 6-2:Function return int
+* Chapter 6-3:Function return multiple values
