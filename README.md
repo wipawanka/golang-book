@@ -31,3 +31,5 @@
 * Chapter 6-1:Function
 * Chapter 6-2:Function return int
 * Chapter 6-3:Function return multiple values
+* Chapter 6-4:Function For Loop
+* Chapter 6-5:Function Fizzbuzz
