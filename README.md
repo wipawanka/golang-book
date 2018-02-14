@@ -26,3 +26,7 @@
 * Chapter 5-3:Switch
 * Chapter 5-4:Magic Number
 * Chapter 5-5:Random Seed
+
+## Chapter 6
+* Chapter 6-1:Function
+* Chapter 6-1:Function return int
