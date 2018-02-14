@@ -23,3 +23,6 @@
 ## Chapter 5
 * Chapter 5-1:For Loop
 * Chapter 5-2:FizzBuzz
+* Chapter 5-3:Switch
+* Chapter 5-4:Magic Number
+* Chapter 5-5:Random Seed
